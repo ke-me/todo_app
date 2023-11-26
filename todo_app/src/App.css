@@ -76,8 +76,9 @@ input[type=checkbox]:checked + .todo-label::after {
   font-size: 15px;
   color: #fff;
   background-color: #000;
-  height: 23px;
-  width: 23px;
+  /* height: 23px;
+  width: 23px; */
+  padding: 0 6px;
 }
 
 .todo-form {
